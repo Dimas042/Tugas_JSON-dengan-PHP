@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Dimas",
+        "nim": "20050974042",
+        "no_telepon": "089678644837",
+        "hobi":[
+            "menggambar",
+            "berenang"
+        ],
+        "riwayat_pendidikan": {
+            "sd" : "sd 1 sidoarjo",
+            "smp": "smp 1 jombang",
+            "sma": "sma 1 madiun"
+        }
+    },
+    {
+        "nama": "Tyas",
+        "nim": "20050974022",
+        "no_telepon": "084758379374",
+        "hobi":[
+            "membaca",
+            "sepak bola"
+        ],
+        "riwayat_pendidikan": {
+            "sd" : "sd 1 solo",
+            "smp": "smp 1 solo",
+            "sma": "sma 1 solo"
+        }
+    }
+]
